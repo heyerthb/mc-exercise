@@ -15,3 +15,6 @@ This is what Bob & Carol did on carols’s computer when working on the first fe
 
 Hello this is the new and improved Alice.
 
+
+Alice, it's still you with different hair. 
+
