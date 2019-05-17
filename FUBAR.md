@@ -30,3 +30,5 @@ Take #3
 Now I'm Alice.
 
 The END
+
+Bye!
