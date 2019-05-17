@@ -7,10 +7,14 @@ This is carol and bobs second feature.
 This is Bob on Alice's computer. No follow up questions. 
 Carol going solo! 
 
+
+I'm not flawed, just different.
 ** Take #2
 
 This is what Bob & Carol did on carols’s computer when working on the first feature. Awesome! Yes!
 
 Hello this is the new and improved Alice.
 
+
 Alice, it's still you with different hair. 
+
