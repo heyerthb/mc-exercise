@@ -10,3 +10,5 @@ Carol going solo!
 ** Take #2
 
 This is what Bob & Carol did on carols’s computer when working on the first feature. Awesome! Yes!
+
+Hello this is the new and improved Alice.
