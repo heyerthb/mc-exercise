@@ -6,3 +6,5 @@ This is carol and bobs second feature.
 
 This is Bob on Alice's computer. No follow up questions. 
 Carol going solo! 
+
+I'm not flawed, just different.
